@@ -1,0 +1,9 @@
+[submodule "blog/themes/hugo-theme-codex"]
+	path = blog/themes/hugo-theme-codex
+	url = https://github.com/jakewies/hugo-theme-codex.git
+[submodule "themes/hugo-sugoi"]
+	path = themes/hugo-sugoi
+	url = https://github.com/aanupam23/hugo-sugoi.git
+[submodule "blog/themes/hugo-sugoi"]
+	path = blog/themes/hugo-sugoi
+	url = https://github.com/aanupam23/hugo-sugoi.git
