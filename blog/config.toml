@@ -1,6 +1,6 @@
 
 theme = "hugo-sugoi"
-baseURL = "https://example.com"
+baseURL = "https://github.com/mjsheikh.github.io/blog"
 languageCode = "en-us"
 title = "Zeeshan's Blog"
 summaryLength = 20
@@ -14,7 +14,7 @@ disqusShortname = "mjsheikh"
 [params]
 favicon = "images/blogs.png"
 herotitle = "Welcome! I'll be using this space to keep you posted :)"
-herolink = "https://github.com/aanupam23/hugo-sugoi"
+herolink = "https://mjsheikh.github.io/"
 herolinktext = "My Homepage"
 
 [hero]
